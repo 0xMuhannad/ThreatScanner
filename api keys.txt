@@ -1,0 +1,16 @@
+Virustotal your_api_key 
+AbuseIPDB your_api_key
+
+
+
+# Delete the unwanted website if you want, or put 'Empty' afterwards, such as AbuseIPDB Empty.
+# These lines are not read by script and it's just for documentation and clarification. 
+# Sample of correct format without '#'
+#
+# VirusTotal your_api_key
+# AbuseIPDB your_api_key
+#
+# OR 
+#
+# VirusTotal your_api_key
+# AbuseIPDB Empty
