@@ -1,0 +1,9 @@
+aiohttp
+colorama
+numpy
+openpyxl
+pandas
+pycountry
+requests
+XlsxWriter
+
