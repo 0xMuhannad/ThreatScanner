@@ -19,7 +19,7 @@ VirusTotal api_key
 AbuseIPDB api_key
 ```
 # Usage
-the script has multiple options and can be shown by supplying -h to see the options:
+The script offers multiple options, which can be viewed by supplying the '-h' flag to see the available options.
  * -f: The path to the input file containing IP addresses.
  * -api: API keys text file with the same format of api keys.txt.
  * -l: a path to save the generated excel file. [optional]
