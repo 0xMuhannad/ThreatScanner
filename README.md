@@ -61,5 +61,6 @@ IP requirement:
 # Demo
 
 The script is relatively easy to use, and below is an example of how to use it.
+ * The script has generated an excel file and its not shown in the below GIF. 
 
 ![Alt Text](https://github.com/0xMuhannad/ThreatScanner/blob/main/ThreatScanner.gif)
