@@ -58,3 +58,8 @@ IP requirement:
     - Multiple IP addresses separated by space (e.g., 8.8.8.8 8.8.4.4)
     - Sanitized IP address (e.g., 8[.]8[.]8[.]8)
 ```
+# Demo
+
+The script is relatively easy to use, and below is an example of how to use it.
+
+![Alt Text](https://github.com/0xMuhannad/ThreatScanner/blob/main/ThreatScanner.gif)
